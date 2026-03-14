@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"5b939b5ffd658653","type":"text","text":"Descrição Básica: Estando entre as primeiras gerações de patronos e \"irmã gêmea\" do Crisântemo Rubro. Ao contrário dos outros patronos a Crisântemo Purpura procurou dar seguimento a glória da flor de éter através do renascimento pela  mutação, a cada 100 anos ela entre em hibernação no seu casulo de flores.","x":-380,"y":-340,"width":340,"height":400},
+		{"id":"c3a8f240ef5664fe","type":"text","text":"A Crisântemo Purpura sendo uma grande estudiosa, ela é uma cientista que estuda transmutação e procura entender cada objeto da maneira mais profunda possível, podendo se ater a sua curiosidade imensurável, seu maior medo é descobrir todos os mistérios deste universo.","x":-380,"y":180,"width":340,"height":243},
+		{"id":"055684bc74b789ef","type":"text","text":"A Crisântemo Purpura foi responsável por trazer os aspectos silvestres a flores, assim como também foi ela quem criou passagens secretas entre o bosque e o mundo das fadas.","x":-900,"y":-231,"width":345,"height":183},
+		{"id":"83151edb4aa654e2","type":"file","file":"A Visão Geral.canvas","x":-410,"y":-880,"width":400,"height":400},
+		{"id":"923d9f8032b9d793","type":"file","file":"Imagens/Crisântemo Purpura.jpg","x":220,"y":-585,"width":727,"height":891}
+	],
+	"edges":[
+		{"id":"34ce8b5627135598","fromNode":"5b939b5ffd658653","fromSide":"right","toNode":"923d9f8032b9d793","toSide":"left","label":"Aparência"},
+		{"id":"b29d59cef286ab28","fromNode":"5b939b5ffd658653","fromSide":"bottom","toNode":"c3a8f240ef5664fe","toSide":"top","label":"Características"},
+		{"id":"9d57239e18ddd880","fromNode":"5b939b5ffd658653","fromSide":"left","toNode":"055684bc74b789ef","toSide":"right"},
+		{"id":"ac3fb886eba8b4a9","fromNode":"83151edb4aa654e2","fromSide":"bottom","toNode":"5b939b5ffd658653","toSide":"top"}
+	]
+}

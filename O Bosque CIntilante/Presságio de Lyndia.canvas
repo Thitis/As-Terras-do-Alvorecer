@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"265cb6cf1b99948d","type":"text","text":"O presságio de Lyndia\n","x":-441,"y":-25,"width":248,"height":60,"color":"2"},
+		{"id":"71c7aa19e246a080","type":"text","text":"A Inflamação Planar","x":-86,"y":-57,"width":250,"height":120,"color":"2"},
+		{"id":"52a6749f83b1530d","type":"text","text":"Os Sinais do Fim\n","x":192,"y":-205,"width":250,"height":50,"color":"2"},
+		{"id":"251575de1862860b","type":"text","text":"Os Presentes de Lyndia\n","x":-291,"y":135,"width":305,"height":81,"color":"2"},
+		{"id":"ec564d02bbcc0309","type":"text","text":"As Cascas \n","x":-263,"y":-215,"width":250,"height":60,"color":"2"},
+		{"id":"8eed273a2d6f0840","type":"file","file":"A Visão Geral.canvas","x":-960,"y":-197,"width":380,"height":400}
+	],
+	"edges":[
+		{"id":"1779be5bbdd6be3c","fromNode":"265cb6cf1b99948d","fromSide":"right","toNode":"71c7aa19e246a080","toSide":"left"},
+		{"id":"3b0e31bfaf17b480","fromNode":"265cb6cf1b99948d","fromSide":"right","toNode":"251575de1862860b","toSide":"top"},
+		{"id":"e6d1fd05c4dd49db","fromNode":"265cb6cf1b99948d","fromSide":"right","toNode":"ec564d02bbcc0309","toSide":"bottom"},
+		{"id":"a969524b3c3f0dba","fromNode":"71c7aa19e246a080","fromSide":"right","toNode":"52a6749f83b1530d","toSide":"left"},
+		{"id":"8c2d4dd3b72f5c8e","fromNode":"8eed273a2d6f0840","fromSide":"right","toNode":"265cb6cf1b99948d","toSide":"left"}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"25a9f2ea4d04977a","type":"file","file":"A Visão Geral.canvas","x":896,"y":-1526,"width":400,"height":400},
+		{"id":"5f9351eb1b12c19b","type":"text","text":"Linha do Tempo","x":971,"y":-1720,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"fbc792a2788e904c","fromNode":"25a9f2ea4d04977a","fromSide":"top","toNode":"5f9351eb1b12c19b","toSide":"bottom"}
+	]
+}

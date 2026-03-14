@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ae1b520e1f93ab09","type":"text","text":"Certos reinos acabam sendo controlados por um patriarcado ou matriarcado, dentro dos semblantes de ferro existem os dois e eles competem por poder e controle do reino constantemente.","x":-60,"y":-123,"width":400,"height":183},
+		{"id":"ca0a7166f338bf1c","type":"file","file":"A Visão Geral.canvas","x":-60,"y":-720,"width":400,"height":400},
+		{"id":"ecef1634d4e3dff0","type":"text","text":"Política","x":620,"y":-61,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6590793dc614bc18","fromNode":"ae1b520e1f93ab09","fromSide":"right","toNode":"ecef1634d4e3dff0","toSide":"left","label":"Politica"},
+		{"id":"d25f5dd515c4a1c3","fromNode":"ae1b520e1f93ab09","fromSide":"top","toNode":"ca0a7166f338bf1c","toSide":"bottom","label":"Visão Geral"}
+	]
+}

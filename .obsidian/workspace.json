@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "0d544083395f5012",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bcbd6347c86f423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560af6d6a9744506",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "A Visão Geral.canvas",
+                "viewState": {
+                  "x": 595.5,
+                  "y": -1274,
+                  "zoom": -3.81302689433013
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "A Visão Geral"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dd7106018e67a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "193222a14a875304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f4d89c8aa95b23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9f0d04a3f6b929d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8fc87ad9c456b23",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4546c754958f7e5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d976af3936c0774b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "132d5210f0e53cd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A Terras do Alvorecer/As Terras do Alvorecer.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for As Terras do Alvorecer"
+            }
+          },
+          {
+            "id": "e2d81ab5af61c913",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A Terras do Alvorecer/As Terras do Alvorecer.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from As Terras do Alvorecer"
+            }
+          },
+          {
+            "id": "a7d42c3766139950",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "28fcd83cc070b917",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A Terras do Alvorecer/As Terras do Alvorecer.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of As Terras do Alvorecer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "77f4d89c8aa95b23",
+  "lastOpenFiles": [
+    "Sem título",
+    "A Visão Geral.canvas",
+    "Reino de Malza'Thrath/A Trindade Sagrada.canvas",
+    "Reino de Malza'Thrath/O Reino de Malza'Thrath.canvas",
+    "Localizações/As Terras do Alvorecer.canvas",
+    "Imagens/Reino de Malza'Thrath.jpg",
+    "Imagens/Região Nobre de Malza'Thrath.jpg",
+    "Imagens/O Castelo Real de Malza'Thrath.jpg",
+    "Imagens/Cortê do Âmbar.jpg",
+    "Imagens/lago da Eternascente 2.jpg",
+    "Vila dos Bullywug 1.jpg",
+    "Lago da Eternascente 1.jpg",
+    "Imagens/Lago da Eternascente.jpg",
+    "Reino de Malza'Thrath/A Cultura dos Semblantes de Ferro.canvas",
+    "O Bosque CIntilante/Presságio de Lyndia.canvas",
+    "Imagens/A Cicatriz Estelar.jpg",
+    "O Bosque CIntilante/Povos Remanescente.canvas",
+    "Reino de Malza'Thrath/O Povo de Malza'Thrath.canvas",
+    "O Bosque CIntilante/Conclaves/Dríades de Seda.canvas",
+    "O Bosque CIntilante/A Cultura do Bosque Cintilante.canvas",
+    "Imagens/Entre Galhos.jpg",
+    "WorldGuardExtraFlags.jar",
+    "O Bosque CIntilante/Povos Remanescente",
+    "O Bos Cintilante/Bosque Cintilante",
+    "Reino de Malza'Thrath",
+    "A Terras do Alvorecer/Patronos",
+    "O Bosque CIntilante/Povos Remanescente",
+    "Localizações",
+    "Imagens",
+    "Varenh'Zel",
+    "A Terras do Alvorecer/Cultura",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"b8abd48ab2a56dd2","type":"text","text":"Existem duas raças principais dentro do conclave dos brilhantos de jade","x":-210,"y":-520,"width":337,"height":95},
+		{"id":"e4b660e6f47835ec","type":"text","text":"Lótus, O Patrono da Lembrança \n","x":-781,"y":-507,"width":402,"height":71},
+		{"id":"c8abad47c4e15bd2","type":"file","file":"Imagens/Serpente de Jade.jpg","x":-1960,"y":-810,"width":920,"height":676},
+		{"id":"0278321cb4240ebd","type":"file","file":"Imagens/Brilhantinos de Jade 2.jpg","x":-477,"y":-60,"width":267,"height":400},
+		{"id":"7262b73599782219","type":"file","file":"Imagens/Patrono dos Brilhantinos de Jade.jpg","x":-6,"y":-1210,"width":267,"height":400},
+		{"id":"445bd9e9be09bbb0","type":"file","file":"Imagens/Brilhantino de Jade.jpg","x":-641,"y":-1160,"width":262,"height":400},
+		{"id":"dcd93ceb8ab3e249","type":"file","file":"A Visão Geral.canvas","x":128,"y":-134,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d18568becc10e6f5","fromNode":"b8abd48ab2a56dd2","fromSide":"left","toNode":"e4b660e6f47835ec","toSide":"right"},
+		{"id":"a5e15e89c742ef68","fromNode":"b8abd48ab2a56dd2","fromSide":"bottom","toNode":"0278321cb4240ebd","toSide":"top","label":"Corcéis de Jade"},
+		{"id":"e34cc5ea95979971","fromNode":"e4b660e6f47835ec","fromSide":"left","toNode":"c8abad47c4e15bd2","toSide":"right"},
+		{"id":"709041ef09e28f31","fromNode":"b8abd48ab2a56dd2","fromSide":"bottom","toNode":"7262b73599782219","toSide":"top","label":"Centauros Cristalinos"},
+		{"id":"476ac2cf7c421b68","fromNode":"b8abd48ab2a56dd2","fromSide":"bottom","toNode":"445bd9e9be09bbb0","toSide":"top","label":"Geogosmantes"}
+	]
+}

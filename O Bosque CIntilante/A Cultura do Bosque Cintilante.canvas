@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"3e2cec3fa65c5a8c","type":"text","text":"Atualmente existem três patronos que fazem parte das primeiras gerações de patronos.","x":448,"y":720,"width":309,"height":86},
+		{"id":"456dcfc7df76c7e4","type":"text","text":"Politica","x":990,"y":-402,"width":250,"height":60},
+		{"id":"9c54c217dfd3e6c6","type":"text","text":"O Presságio de Lyndia foi um visão ao qual Lyndia teve sobre um futuro onde a flor etér adoeceria e criaria suas próprias ruinas.","x":-40,"y":-409,"width":320,"height":156},
+		{"id":"8607ce979c070df0","type":"text","text":"O que a essência faz é criar um novo ser de poder extremo que carrega consigo características do titan que ele nasceu e ele apenas se torna um patrono se escolher ficar nas terras do alvorecer para proteger o local, o que ocorre com pouca frequência.","x":400,"y":634,"width":460,"height":181},
+		{"id":"1721b5695f82a8e4","type":"text","text":"Com a volta dos Peregrinos, eles trazem consigo a essência do titan morto, o que pode ou não dar origem a um novo patrono através de um ritual após a morte do peregrinos que retornaram.","x":474,"y":376,"width":312,"height":175},
+		{"id":"7f942af26fbaa301","type":"text","text":"Os Peregrinos são os pilares de toda cultura do povo do alvorecer. Sendo eles responsáveis por dar origem aos patronos que deram origem aos povos do bosque.  Os peregrinos são seres misteriosos que viajam cruzando o universo através de reinos e planos coletando a essência dos corpos mortos de Titans. Em algum momento após concluir o seu ciclo de viajem através do universo, eles retornam as terras do alvorecer e morrem com o propósito de renascer e começar o ciclo novamente.","x":408,"y":-29,"width":444,"height":339},
+		{"id":"5303ace346f110c6","type":"text","text":"A Grande jornada como é chamada a viajem do peregrinos demoram gerações até que eles voltem e é considerado um milagre presenciar essas figuras que por muitas vezes são vistas apenas como lendas.","x":430,"y":-242,"width":400,"height":142},
+		{"id":"6cfcdc28038840c7","type":"text","text":"Cultura","x":505,"y":-402,"width":250,"height":60},
+		{"id":"62d1b0b765d12be5","type":"text","text":"Dentro do bosque existe vários povos que funcionam trabalhando como comunas de autogestão popular focada sem produção coletiva e democracia participativa. Porém, existe uma vontade superior que \"reina\" de forma indireta sobre todos esses povos que são os conclaves criados pelos patronos. Pela maior parte do tempo, os conclaves protegem a natureza(plantas e animais ) e não fazem nada. Apenas agindo em casos que causem um verdadeiro risco para o fim do bosque.\n","x":936,"y":-260,"width":359,"height":320},
+		{"id":"882a6da534160966","type":"text","text":"","x":1600,"y":-260,"width":250,"height":320},
+		{"id":"ec0cec81984cef1d","type":"file","file":"A Visão Geral.canvas","x":163,"y":-1640,"width":934,"height":800},
+		{"id":"7300c12b569cc83f","type":"file","file":"Localizações/As Terras do Alvorecer.canvas","x":1600,"y":-1440,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"23f4f30012da9e45","fromNode":"7f942af26fbaa301","fromSide":"bottom","toNode":"1721b5695f82a8e4","toSide":"top"},
+		{"id":"d76bd1de4eb4e2c1","fromNode":"7f942af26fbaa301","fromSide":"top","toNode":"5303ace346f110c6","toSide":"bottom"},
+		{"id":"cecd18565bc4bee6","fromNode":"1721b5695f82a8e4","fromSide":"bottom","toNode":"8607ce979c070df0","toSide":"top"},
+		{"id":"abf7273a4ab2ecc5","fromNode":"ec0cec81984cef1d","fromSide":"bottom","toNode":"6cfcdc28038840c7","toSide":"top"},
+		{"id":"f70f76601e7e2fb5","fromNode":"ec0cec81984cef1d","fromSide":"bottom","toNode":"456dcfc7df76c7e4","toSide":"top"},
+		{"id":"1baac3c590e66947","fromNode":"456dcfc7df76c7e4","fromSide":"bottom","toNode":"62d1b0b765d12be5","toSide":"top"},
+		{"id":"d946b3c691c85c21","fromNode":"ec0cec81984cef1d","fromSide":"bottom","toNode":"9c54c217dfd3e6c6","toSide":"top"},
+		{"id":"4f20de7529b5adf4","fromNode":"6cfcdc28038840c7","fromSide":"bottom","toNode":"5303ace346f110c6","toSide":"top"},
+		{"id":"375a168e21744544","fromNode":"62d1b0b765d12be5","fromSide":"right","toNode":"882a6da534160966","toSide":"left","label":"Economia"},
+		{"id":"c502df064d4c2ee5","fromNode":"ec0cec81984cef1d","fromSide":"right","toNode":"7300c12b569cc83f","toSide":"left","label":"Localizações"}
+	]
+}
