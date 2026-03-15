@@ -1,19 +1,19 @@
 {
 	"nodes":[
-		{"id":"fad5a1398ea0c7c9","type":"text","text":"O A Legião de Prata","x":-488,"y":72,"width":250,"height":50},
 		{"id":"bfe498833fe7a109","type":"text","text":"O Rei","x":-120,"y":-220,"width":250,"height":60},
-		{"id":"6d5780134a34fc91","type":"text","text":"Formada majoritariamente por draconatos que juraram proteger o reinado da aliança prata luz a maioria deles nasce para morrer pelo reino.","x":-618,"y":220,"width":380,"height":140},
 		{"id":"8b95166fceedb1e2","type":"text","text":"O Véu Áureo. Sendo o clero do reinado, sua criação foi dada junto ao surgimento do primeiro rei, ao qual sei reinado foi concedido através de intervenção divina.","x":280,"y":-120,"width":460,"height":120},
-		{"id":"34c8708640c55bc9","type":"text","text":"A Academia","x":-120,"y":72,"width":250,"height":50},
-		{"id":"f8cb31da6d48ca54","type":"text","text":"","x":-40,"y":260,"width":340,"height":130},
-		{"id":"6ffe62d74a122776","x":-195,"y":-720,"width":400,"height":400,"type":"file","file":"A Visão Geral.canvas"}
+		{"id":"6ffe62d74a122776","type":"file","file":"A Visão Geral.canvas","x":-195,"y":-720,"width":400,"height":400},
+		{"id":"fad5a1398ea0c7c9","type":"text","text":"O Conselho das Damas","x":-630,"y":-60,"width":250,"height":50},
+		{"id":"6d5780134a34fc91","type":"text","text":"As **Cinco Damas de Varenh'Zel** são uma poderosa liga de nobres e comerciantes que, ao longo das eras, conquistaram enorme influência sobre a economia e a política do continente. Cada uma domina um recurso essencial — vinho, ferro, arroz, leite e sal — controlando vastas redes de produção e comércio que atravessam diversos reinos. Além de sua força econômica, as damas também ocupam assentos no conselho real de Malza'thrath, atuando como conselheiras diretas do monarca e influenciando decisões que afetam tanto o reino quanto suas relações com outras nações. Embora cada uma governe seus próprios domínios, quando se unem em propósito tornam-se uma das forças políticas mais poderosas de todo Varenh'Zel.","x":-940,"y":88,"width":560,"height":332},
+		{"id":"34c8708640c55bc9","type":"text","text":"A Academia","x":-215,"y":88,"width":250,"height":50},
+		{"id":"f8cb31da6d48ca54","type":"text","text":"","x":-135,"y":276,"width":340,"height":130}
 	],
 	"edges":[
-		{"id":"9bd639d1d170c5fb","fromNode":"34c8708640c55bc9","fromSide":"top","toNode":"bfe498833fe7a109","toSide":"bottom"},
-		{"id":"e087179d2b0052c1","fromNode":"fad5a1398ea0c7c9","fromSide":"top","toNode":"bfe498833fe7a109","toSide":"bottom"},
-		{"id":"7bde9158020dbce5","fromNode":"8b95166fceedb1e2","fromSide":"left","toNode":"bfe498833fe7a109","toSide":"right"},
-		{"id":"5b8273bf0116439e","fromNode":"6d5780134a34fc91","fromSide":"top","toNode":"fad5a1398ea0c7c9","toSide":"bottom"},
 		{"id":"63f74977c06f3435","fromNode":"34c8708640c55bc9","fromSide":"bottom","toNode":"f8cb31da6d48ca54","toSide":"top"},
-		{"id":"b30a6857fe5d5f1a","fromNode":"6ffe62d74a122776","fromSide":"bottom","toNode":"bfe498833fe7a109","toSide":"top"}
+		{"id":"b30a6857fe5d5f1a","fromNode":"6ffe62d74a122776","fromSide":"bottom","toNode":"bfe498833fe7a109","toSide":"top"},
+		{"id":"e19b3643041de3c9","fromNode":"fad5a1398ea0c7c9","fromSide":"bottom","toNode":"6d5780134a34fc91","toSide":"top","label":"Resumo"},
+		{"id":"d58df880918c4018","fromNode":"bfe498833fe7a109","fromSide":"bottom","toNode":"fad5a1398ea0c7c9","toSide":"top"},
+		{"id":"79337c7ac65d8304","fromNode":"bfe498833fe7a109","fromSide":"right","toNode":"8b95166fceedb1e2","toSide":"left"},
+		{"id":"f735571a18f5337a","fromNode":"bfe498833fe7a109","fromSide":"bottom","toNode":"34c8708640c55bc9","toSide":"top"}
 	]
 }

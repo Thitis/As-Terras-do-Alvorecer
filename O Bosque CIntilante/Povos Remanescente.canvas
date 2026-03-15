@@ -28,7 +28,9 @@
 		{"id":"d7592d2ae7e55605","type":"text","text":"Povo Tamanduá","x":961,"y":-471,"width":250,"height":50},
 		{"id":"54c6428f78df20b1","type":"text","text":"Povos Selvagens. Estes povos são aqueles que possuem pouca ou quase nenhuma língua, mas que com certeza não são capazes de falar o idioma comum, sendo considerados subdesenvolvidos pelos semblantes de ferro.","x":139,"y":-621,"width":363,"height":181},
 		{"id":"687fcae899fda14f","type":"text","text":"Povo Elefante","x":961,"y":-360,"width":250,"height":50},
-		{"id":"73324eaef7cf9143","type":"text","text":"Povo Peixe","x":961,"y":-780,"width":250,"height":60}
+		{"id":"73324eaef7cf9143","type":"text","text":"Povo Peixe","x":961,"y":-780,"width":250,"height":60},
+		{"id":"6e28cfa1525abb99","type":"file","file":"Localizações/As Terras do Alvorecer.canvas","x":-1280,"y":-621,"width":400,"height":400},
+		{"id":"a6c3545594f8713c","type":"file","file":"O Bosque CIntilante/A Cultura do Bosque Cintilante.canvas","x":-1280,"y":519,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"48689b74023a1f9d","fromNode":"fa9d1ca7bd2d1fbe","fromSide":"left","toNode":"8fe22d0d4b2d8ab4","toSide":"right","fromEnd":"arrow","label":"Aparêncai"},
@@ -62,6 +64,8 @@
 		{"id":"13e39110ae7683af","fromNode":"07fbb61e831d52b3","fromSide":"right","toNode":"84de45f1bfc9f37c","toSide":"left","fromEnd":"arrow","label":"Aparência"},
 		{"id":"a4ac097bfbd4dda6","fromNode":"aaf965de355f0832","fromSide":"right","toNode":"a58532feea611950","toSide":"left"},
 		{"id":"847c68cc78e609ed","fromNode":"a9cc651cccd69da3","fromSide":"right","toNode":"1d32b28b12d2864d","toSide":"left"},
-		{"id":"0e5c636fae47cc3c","fromNode":"fa19aa9ee4508627","fromSide":"right","toNode":"475a4904494cd536","toSide":"bottom"}
+		{"id":"0e5c636fae47cc3c","fromNode":"fa19aa9ee4508627","fromSide":"right","toNode":"475a4904494cd536","toSide":"bottom"},
+		{"id":"9bcbeed8081d1e34","fromNode":"1c5204a7feec148d","fromSide":"bottom","toNode":"a6c3545594f8713c","toSide":"top","label":"Relações Sociais"},
+		{"id":"a4dbed5a9efdbe07","fromNode":"1c5204a7feec148d","fromSide":"top","toNode":"6e28cfa1525abb99","toSide":"bottom","label":"Localizações"}
 	]
 }

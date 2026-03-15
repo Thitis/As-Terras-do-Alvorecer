@@ -15,16 +15,51 @@
               "state": {
                 "file": "A Visão Geral.canvas",
                 "viewState": {
-                  "x": 595.5,
-                  "y": -1274,
-                  "zoom": -3.81302689433013
+                  "x": 612.1520237074192,
+                  "y": 68.29892303774983,
+                  "zoom": -0.5828258585130207
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "A Visão Geral"
             }
+          },
+          {
+            "id": "4006bdc0879281e3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "A Visão Geral.canvas",
+                "viewState": {
+                  "x": 1671.3396244429457,
+                  "y": 1806.6595442956234,
+                  "zoom": -2.5828258585130204
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "A Visão Geral"
+            }
+          },
+          {
+            "id": "e321fc404ce9f2a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Reino de Malza'Thrath/A Cultura dos Semblantes de Ferro.canvas",
+                "viewState": {
+                  "x": 372.3781186062369,
+                  "y": 747.2588386817783,
+                  "zoom": -1.3333333333333335
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "A Cultura dos Semblantes de Ferro"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,16 +199,25 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77f4d89c8aa95b23",
+  "active": "e321fc404ce9f2a3",
   "lastOpenFiles": [
-    "Sem título",
     "A Visão Geral.canvas",
+    "Reino de Malza'Thrath/A Cultura dos Semblantes de Ferro.canvas",
     "Reino de Malza'Thrath/A Trindade Sagrada.canvas",
     "Reino de Malza'Thrath/O Reino de Malza'Thrath.canvas",
+    "O Bosque CIntilante/A Cultura do Bosque Cintilante.canvas",
+    "O Bosque CIntilante/Povos Remanescente.canvas",
+    "O Bosque CIntilante/Conclaves/Crisântemo Purpura.canvas",
+    "O Bosque CIntilante/Presságio de Lyndia.canvas",
+    "O Bosque CIntilante/Conclaves/Dríades de Seda.canvas",
     "Localizações/As Terras do Alvorecer.canvas",
+    "O Bosque CIntilante/Conclaves/Brilhantinos de Jade.canvas",
+    "Imagens/Dríade de Seda Jovem.jpg",
+    "Sem título",
     "Imagens/Reino de Malza'Thrath.jpg",
     "Imagens/Região Nobre de Malza'Thrath.jpg",
     "Imagens/O Castelo Real de Malza'Thrath.jpg",
@@ -182,14 +226,7 @@
     "Vila dos Bullywug 1.jpg",
     "Lago da Eternascente 1.jpg",
     "Imagens/Lago da Eternascente.jpg",
-    "Reino de Malza'Thrath/A Cultura dos Semblantes de Ferro.canvas",
-    "O Bosque CIntilante/Presságio de Lyndia.canvas",
     "Imagens/A Cicatriz Estelar.jpg",
-    "O Bosque CIntilante/Povos Remanescente.canvas",
-    "Reino de Malza'Thrath/O Povo de Malza'Thrath.canvas",
-    "O Bosque CIntilante/Conclaves/Dríades de Seda.canvas",
-    "O Bosque CIntilante/A Cultura do Bosque Cintilante.canvas",
-    "Imagens/Entre Galhos.jpg",
     "WorldGuardExtraFlags.jar",
     "O Bosque CIntilante/Povos Remanescente",
     "O Bos Cintilante/Bosque Cintilante",
@@ -199,7 +236,6 @@
     "Localizações",
     "Imagens",
     "Varenh'Zel",
-    "A Terras do Alvorecer/Cultura",
     "Welcome.md"
   ]
 }

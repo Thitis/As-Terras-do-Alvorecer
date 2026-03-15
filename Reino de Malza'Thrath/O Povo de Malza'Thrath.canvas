@@ -7,8 +7,8 @@
 		{"id":"01cfb250bb690ef0","type":"text","text":"Dama de Leite","x":1582,"y":-2465,"width":250,"height":60},
 		{"id":"319b421236d99b1d","type":"text","text":"Plebeus","x":3654,"y":-1289,"width":250,"height":60},
 		{"id":"df3db98a1ae15082","type":"text","text":"Nobreza","x":2654,"y":-1280,"width":250,"height":60},
-		{"id":"62a509f196c29d7d","type":"text","text":"Véu Áureo. O véu é como chamam o espectro de sua divindade, uma espécie de entidade capaz de conceder dádivas ","x":2114,"y":-1073,"width":412,"height":107},
-		{"id":"2a4f0e8da03d27f3","type":"text","text":"Exército","x":2514,"y":-100,"width":250,"height":60},
+		{"id":"62a509f196c29d7d","type":"text","text":"Véu Áureo. O véu é como chamam o espectro de sua divindade, uma espécie de entidade capaz de conceder dádivas.","x":2114,"y":-1073,"width":412,"height":107},
+		{"id":"2a4f0e8da03d27f3","type":"text","text":"Guarda de Malza'Thrath","x":2514,"y":-100,"width":250,"height":60},
 		{"id":"0625dc07aa8be9b8","type":"text","text":"Aaracrocras ","x":1539,"y":130,"width":250,"height":60},
 		{"id":"4549b72cd02038fb","type":"text","text":"Dama de Ferro","x":2967,"y":-300,"width":250,"height":60},
 		{"id":"f11815c73365ea74","type":"text","text":"Draconatos Vermelhos. Sendo a principal força do exército do reino inter-médio, eles representam literalmente a linha de fogo do reino. Seu surgimento vem junto com a entrada do reino para participar da aliança prata-luz, sendo o exército \"emprestado da aliança\". Embora eles seguiam as ordens do reino, eles primeiro respondem a aliança prata luz caso seja comandado. ","x":1414,"y":550,"width":500,"height":220},
@@ -29,7 +29,9 @@
 		{"id":"065d60828c67dc82","type":"file","file":"Imagens/Meio orc.jpg","x":791,"y":-2435,"width":267,"height":400},
 		{"id":"afebfc407e130d57","type":"text","text":"Kobold.","x":1414,"y":1170,"width":250,"height":60},
 		{"id":"b3bb8e9416a259a3","type":"file","file":"Reino de Malza'Thrath/O Reino de Malza'Thrath.canvas","x":3600,"y":-470,"width":400,"height":400},
-		{"id":"1bf60cb5e14caf58","type":"text","text":"Dama de Leite","x":1491,"y":-1320,"width":250,"height":60}
+		{"id":"1bf60cb5e14caf58","type":"text","text":"Dama de Leite","x":1491,"y":-1320,"width":250,"height":60},
+		{"id":"5f4433b6f9708243","x":-1000,"y":-920,"width":400,"height":400,"type":"file","file":"Localizações/As Terras do Alvorecer.canvas"},
+		{"id":"08958759b61a8804","x":-1000,"y":280,"width":400,"height":400,"type":"file","file":"Reino de Malza'Thrath/A Cultura dos Semblantes de Ferro.canvas"}
 	],
 	"edges":[
 		{"id":"b9b02aa880e7c1b2","fromNode":"512058e26ef5e78d","fromSide":"right","toNode":"2a8a66e615604214","toSide":"left"},
@@ -68,6 +70,8 @@
 		{"id":"36fc4263f4dd3710","fromNode":"4d2a84ce08eb2771","fromSide":"right","toNode":"7d1491ab316c255c","toSide":"left"},
 		{"id":"5920710ef3a95855","fromNode":"48ded0ee1daeee18","fromSide":"top","toNode":"01cfb250bb690ef0","toSide":"bottom"},
 		{"id":"b9fede769bf876b2","fromNode":"4549b72cd02038fb","fromSide":"right","toNode":"b3bb8e9416a259a3","toSide":"left"},
-		{"id":"14a69470f9ae01e0","fromNode":"9db1c7f95b896f87","fromSide":"right","toNode":"319b421236d99b1d","toSide":"left"}
+		{"id":"14a69470f9ae01e0","fromNode":"9db1c7f95b896f87","fromSide":"right","toNode":"319b421236d99b1d","toSide":"left"},
+		{"id":"19159f29c13e489a","fromNode":"9158fb45e20b83a2","fromSide":"top","toNode":"5f4433b6f9708243","toSide":"bottom","label":"Localizações"},
+		{"id":"b51d926af31c46d8","fromNode":"9158fb45e20b83a2","fromSide":"bottom","toNode":"08958759b61a8804","toSide":"top","label":"Relações Sociais"}
 	]
 }
